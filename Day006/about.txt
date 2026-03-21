@@ -1,0 +1,1 @@
+Worked with functions and Karel and While loops
